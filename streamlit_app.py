@@ -2,131 +2,37 @@ import streamlit as st
 
 st.title("📕 AiDE Prompt Guide")
 st.markdown(
-    """
-THE PROMPT 
-COLLECTION
+    """# THE C.R.E.A.T.E. FRAMEWORK
 
-Dave Birss
+If you want to write an effective prompt, you need to brief AiDE properly. 
 
-From the LinkedIn Learning course  “How to research and write using Generative AI tools”Thanks for taking the course. I’ve 
-created this handy PDF to make it as 
-easy as possible for you to work with 
-the prompts. 
+Here’s a reminder of the different elements you should consider for your prompt.
 
-And you’ll ﬁnd a few extra bonus 
-prompts just because I’m a nice guy. 
++ Character 
 
-In return, I’d really appreciate it if you 
-told me what you liked about the 
-course and what you think could be 
-improved. 
++ Request 
 
-Big thanks, 
++ Examples 
 
-Dave Birss 
-lilai@davebirss.com
++ Additions 
 
-INDEX
++ Type of output 
 
-The CREATE framework 
++ Extras
 
-Prompt extras 
+## CHARACTER
 
-Summarise complex information 
+This  is  the  role  you  want  AiDE  to play. It could be an expert, a celebrity, an artist or an idiot. Make it clear with an introductory statement like: 
 
-View things from multiple perspectives 
-
-Get advice from experts 
-
-Create fast user personas 
-
-Discover and use new strategic models 
-
-Discover interesting facts and statistics 
-
-5 
-
-14 
-
-19 
-
-24 
-
-28 
-
-33 
-
-38 
-
-42 
-
-46 
-
-Analyse writing styles (and write in them) 
-
-50 
-
-54 
-
-58 
-
-62 
-
-69
-
-Get interesting headline and article ideas 
-
-Outline your content 
-
-Improve your writing 
-
-Bonus prompts 
-
-Keep learning
-
-THE C.R.E.A.T.E. 
-FRAMEWORK
-
-Photo by Ivan Samkov on PexelsIf you want to write an effective 
-prompt, you need to brief ChatGPT 
-properly. 
-
-Here’s a reminder of the different 
-elements you should consider for 
-your prompt.
-
-6
-
-Character 
-
-Request 
-
-Examples 
-
-Additions 
-
-Type of output 
-
-Extras
-
-7
-
-CHARACTER
-
-This  is  the  role  you  want  ChatGPT  to 
-play. It could be an expert, a celebrity, 
-an artist or an idiot. Make it clear with 
-an introductory statement like: 
-
-“You are an expert chef with 20 years 
+> “You are an expert chef with 20 years 
 experience and a Michelin star. You 
 can create amazing and surprising 
 dishes from the simplest of 
 ingredients.”
 
-8
 
-REQUEST
+
+## REQUEST
 
 This  is  the  task  you  want  ChatGPT  to 
 do  for  you.  You  clearer  you  are,  the 
